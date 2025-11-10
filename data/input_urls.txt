@@ -1,0 +1,2 @@
+# One URL per line. Example Skool member pages (replace with real group URLs):
+https://www.skool.com/example-group/members
